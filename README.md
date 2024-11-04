@@ -11,7 +11,7 @@ It allows you to experience a virtual bulletin board with AI. The main features 
 - **AI-Assisted User Post Revision**:  
   People sometimes post emotionally charged messages. Through AI, users can modify their content to be more neutral before posting. This is an optional feature.(config.USE_MODIFY_FLAG)
 
-For more details, please refer to [this website]().
+For more details, please refer to [this website](https://m-sea-bass.blogspot.com/2024/11/i-created-locally-running-ai-bulletin.html).
 
 ## Environment Setup
 First, install PyTorch for CUDA.
