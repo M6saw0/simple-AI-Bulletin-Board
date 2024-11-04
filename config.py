@@ -1,0 +1,2 @@
+BOT_NUM = 3
+USE_MODIFY_FLAG = True
