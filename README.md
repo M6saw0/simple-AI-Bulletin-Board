@@ -1,4 +1,6 @@
 # AI Bulletin Board
+![image](img/image.png)
+
 ## Overview
 This is a simple AI bulletin board code that uses WebSocket.  
 It allows you to experience a virtual bulletin board with AI. The main features are as follows:
